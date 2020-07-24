@@ -1,0 +1,1 @@
+obtem_letras_palavras([tia, filhas, mae, filha], Letras), writeln(Letras) ; writeln('false').

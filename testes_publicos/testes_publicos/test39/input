@@ -1,0 +1,1 @@
+puzzle(puz4, Puz), inicializa(Puz, PPs), resolve_aux(PPs, Res), maplist(writeln, Res); writeln('false').

@@ -1,0 +1,2 @@
+Lst_Pals = [[a,t,o], [a, c, o], [a,n,o], [a,l,o]], letras_comuns(Lst_Pals, Letras_comuns), writeln(Letras_comuns); writeln('false').
+Lst_Pals = [[i,t,o], [a, c, o], [a,n,a], [a,l,o]], letras_comuns(Lst_Pals, Letras_comuns), writeln(Letras_comuns); writeln('false').

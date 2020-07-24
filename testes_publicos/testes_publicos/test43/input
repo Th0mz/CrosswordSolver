@@ -1,0 +1,1 @@
+puzzle(puz3, [L,G]), resolve([L,G]), escreve_Grelha(G); writeln('false').
